@@ -3,7 +3,7 @@ Working through Brett Lantz's Machine Learning with R.
 
 # Packages of Interest
 The following are packages used throughout this book:
-RWeka
+  RWeka
 
 # Commands of Interest
 library("RWeka") # loads a desired package (RWeka) into memory
